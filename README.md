@@ -16,4 +16,4 @@ There is a need for public health professionals, humanitarian organizations, gov
 
 #### Call for Contributors
 
-Looking forward to developers and testers to supercharge the current development pipeline. Visit our [Project Repository](https://github.com/AQ-AI) and find our code repositories. On the end to end pipeline for PM2.5 prediction we are currently focussed on geospatial analytics. Find out more about that at [OpenAQ-Engine Repository](https://github.com/AQ-AI/openaq-engine) and read the [Documentation](http://www.aqai.xyz/openaq-engine/) to get started.
+Looking forward to developers and testers to supercharge the current development pipeline. Visit our [Project Repository](https://github.com/AQ-AI) and find our projects. On the end to end pipeline for PM2.5 prediction we are currently focussed on geospatial analytics. Find out more about that at [OpenAQ-Engine Repository](https://github.com/AQ-AI/openaq-engine) and read the [Documentation](http://www.aqai.xyz/openaq-engine/) to get started.
